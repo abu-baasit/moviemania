@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    height:100vh;
+    flex-direction:column;
+    width:100vw;
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container {
+    height:100vh;
+    width:100vw;
+}
+
+.movie_card {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    /*height:100vh;
+    width:100vh;*/
+    padding: 20px;
+    height:auto;
+    width:auto;
+
+}
